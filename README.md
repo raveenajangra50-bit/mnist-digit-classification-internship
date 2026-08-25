@@ -133,6 +133,12 @@ The model (`SimpleCNN`) is a compact 3-layer CNN:
 - No deployment server (Flask/FastAPI) was added per internship requirements.
 - The original Naviotech project files were kept unchanged.
 
-## Author
+## Student
 
-Internship project completed at **Naviotech Solution** — July/August 2026.
+**Presented by:** Raveena
+
+**Programme:** B.Sc. Agriculture
+
+**Institute:** Chaudhary Charan Singh Haryana Agricultural University
+
+**Internship Organization:** Naviotech Solution
